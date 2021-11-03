@@ -14,7 +14,7 @@
     "express": "4.12.3",
     "jsonwebtoken": "7.3.0",
     "swagger-tools": "0.10.1",
-    "validator": "7.0.0",
+    "validator": "13.7.0",
     "yamljs": "0.2.9"
   },
   "engines": {
