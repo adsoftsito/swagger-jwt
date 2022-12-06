@@ -11,7 +11,7 @@
   "main": "app",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
-    "express": "4.12.3",
+    "express": "4.17.3",
     "jsonwebtoken": "7.3.0",
     "swagger-tools": "0.10.1",
     "validator": "7.0.0",
